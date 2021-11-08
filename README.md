@@ -12,8 +12,8 @@
 
 ![Clock ui](/preview.png)
 
-Dark Theme                   | Light Theme
-
-![Preview 1](/preview 1.png) | ![Preview 2](/preview 2.png)
+Dark Theme                 |  Light Theme
+:-------------------------:|:-------------------------:
+![](/preview1.png)  |  ![](/preview2.png)
 
 Credit to - [Bedimcode]
