@@ -10,8 +10,6 @@
 
 
 
-![Clock ui](/preview.png)
-
 Dark Theme                 |  Light Theme
 :-------------------------:|:-------------------------:
 ![](/preview1.png)  |  ![](/preview2.png)
